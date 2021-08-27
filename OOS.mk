@@ -15,6 +15,7 @@ PRODUCT_PACKAGES += \
     OPIconpackOxygen11 \
     OPIconpackRound \
     OPIconpackSquare \
-    OPRecentsProvider \
     OPLauncher \
+    OPRecentsProvider \
+    OPWallpaperResources \
     OPWidget
