@@ -10,8 +10,11 @@ PRODUCT_PACKAGES += \
     OPDeskClock \
     OPFileManager \
     OPGallery \
+    OPIconpackHydrogen \
     OPIconpackOxygen \
+    OPIconpackOxygen11 \
     OPIconpackRound \
+    OPIconpackSquare \
     OPRecentsProvider \
     OPLauncher \
     OPWidget

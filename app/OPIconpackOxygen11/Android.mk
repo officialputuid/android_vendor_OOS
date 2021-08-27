@@ -2,7 +2,7 @@ LOCAL_PATH:= $(call my-dir)
 
 include $(CLEAR_VARS)
 
-LOCAL_MODULE := OPIconpackOxygen
+LOCAL_MODULE := OPIconpackOxygen11
 LOCAL_MODULE_STEM := $(LOCAL_MODULE).apk
 LOCAL_SRC_FILES := $(LOCAL_MODULE).apk
 LOCAL_MODULE_TAGS := optional
