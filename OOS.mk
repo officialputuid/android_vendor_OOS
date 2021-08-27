@@ -18,4 +18,5 @@ PRODUCT_PACKAGES += \
     OPLauncher \
     OPRecentsProvider \
     OPWallpaperResources \
+    OPWeather \
     OPWidget
