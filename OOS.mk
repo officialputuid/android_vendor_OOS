@@ -9,6 +9,7 @@ PRODUCT_PACKAGES += \
     OPCamera \
     OPDeskClock \
     OPFileManager \
+    OPGallery \
     OPIconpackOxygen \
     OPIconpackRound \
     OPRecentsProvider \
